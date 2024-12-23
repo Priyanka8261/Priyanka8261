@@ -1,5 +1,5 @@
 ## Hi there 👋
---> I'm Priyanka
+I'm Priyanka
 # 💫 About Me:
 🔭 I’m currently working on creating amazing datasets and performing analysis on it<br>👯 I’m looking to collaborate on AI projects with creative use cases<br>🤝 I’m looking for help with scraping data from complicated websites<br>🌱 I’m currently learning how to use scrapy and beautifulsoup<br>💬 Ask me about data analytics<br>⚡ Fun fact, I'm obsessed with the Hinge algorithm
 
